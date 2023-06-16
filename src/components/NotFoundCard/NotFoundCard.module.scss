@@ -1,0 +1,14 @@
+@import "../../styles/variables.scss";
+
+.not_found{
+    @include bgdark-br6px;
+    @include flex-centered;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    color: var(--sea);
+    &__code{
+        font-size: 48px;
+    }
+}

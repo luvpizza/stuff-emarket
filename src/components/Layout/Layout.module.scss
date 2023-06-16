@@ -1,0 +1,12 @@
+@import "../../styles/variables.scss";
+
+.layout{
+    &__content{
+        margin: 0 auto;
+        padding: 0 5px;
+        max-width: 1275px;
+    }
+}
+.sidebar__grid{
+    @include sidebar-grid;
+}

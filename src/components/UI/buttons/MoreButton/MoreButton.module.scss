@@ -1,0 +1,11 @@
+@import "../../../../styles/variables.scss";
+
+.more__btn {
+    padding: 10px 20px;
+    border-radius: 6px;
+    background: var(--violet--dark);
+    transition: 0.2s;
+    &:hover {
+        background: var(--violet--darker);
+    }
+}

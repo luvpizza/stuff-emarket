@@ -1,0 +1,51 @@
+:root {
+    --bg: #212123;
+    --dark: #191919;
+    --dark-sea: #576067;
+    --violet: #8856C6;
+    --violet--dark: #6C3EB8;
+    --violet--darker: #5a3299;
+    --white: #F6F6F7;
+    --grey: #B8B8B8;
+    --sea: #616E74;
+}
+@mixin flex {
+    display: flex;
+}
+@mixin flex-centered {
+    display: flex;
+    justify-content: center;
+}
+@mixin flex-between {
+    display: flex;
+    justify-content: space-between;
+}
+@mixin flex-column {
+    display: flex;
+    flex-direction: column;
+}
+@mixin bgdark-br6px {
+    background: var(--dark);
+    border-radius: 6px;
+}
+@mixin img-container {
+    & > img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+    }
+}
+@mixin section-title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+@mixin sidebar-grid{
+    display: grid;
+    grid-template-columns: 1fr 3.125fr;
+    gap: 20px;
+    margin-bottom: 20px;
+}

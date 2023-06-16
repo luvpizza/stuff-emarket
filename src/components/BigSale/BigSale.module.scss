@@ -1,0 +1,38 @@
+@import "../../styles/variables.scss";
+
+.bigsale {
+    @include bgdark-br6px;
+    position: relative;
+    padding-left: 35px;
+    &__backtext_lg{
+        font-style: normal;
+        font-weight: 900;
+        font-size: 119px;
+        text-transform: uppercase;
+        color: var(--bg);
+    }
+    &__award{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        text-transform: uppercase;
+        color: var(--sea);
+        margin-top: 8px;
+    }
+    &__product{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 42px;
+        text-transform: uppercase;
+        color: var(--white);
+        margin-top: 8px;
+    }
+    &__img{
+        position: absolute;
+        right: 40px;
+        bottom: -20px;
+    }
+}
+.more{
+    margin-top: 25px;
+}

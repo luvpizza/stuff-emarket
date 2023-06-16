@@ -1,0 +1,799 @@
+{
+    "products": [
+        {
+            "title": "Dell Inspiron Laptop",
+            "category": "Computers",
+            "price": 999,
+            "sale": 0,
+            "color": "Silver",
+            "sizes": [],
+            "description": "Powerful and reliable laptop for all your computing needs.",
+            "orders": 25,
+            "id": 1,
+            "photos": ["https://m.media-amazon.com/images/I/7150w5ZxZ9L.jpg", "https://example.com/computers/photo2.jpg"]
+        }, {
+            "title": "Men's Casual Shirt",
+            "category": "Clothes",
+            "price": 39,
+            "sale": 0,
+            "color": "Blue",
+            "sizes": [
+                "S", "M", "L"
+            ],
+            "description": "Comfortable and stylish shirt for everyday wear.",
+            "orders": 50,
+            "id": 2,
+            "photos": ["https://cdn.shopify.com/s/files/1/0412/0133/6481/products/3DTEE-CREAM_1000x.jpg?v=1642115129", "https://example.com/clothes/photo2.jpg"]
+        }, {
+            "title": "Nike Air Max Sneakers",
+            "category": "Shoes",
+            "price": 129,
+            "sale": 0,
+            "color": "Black/White",
+            "sizes": [
+                "US 8", "US 9", "US 10"
+            ],
+            "description": "High-performance sneakers for sports and casual wear.",
+            "orders": 79,
+            "id": 3,
+            "photos": ["https://m.media-amazon.com/images/I/710PQ18oz1L._AC_UY1000_.jpg", "https://example.com/shoes/photo2.jpg"]
+        }, {
+            "title": "Modern Sectional Sofa",
+            "category": "Furniture",
+            "price": 1499,
+            "sale": 0,
+            "color": "Gray",
+            "sizes": [],
+            "description": "Elegant and comfortable sectional sofa for your living room.",
+            "orders": 15,
+            "id": 4,
+            "photos": ["https://media.istockphoto.com/id/180696562/photo/white-fabric-sofa-with-clipping-path.jpg?s=170667a&w=0&k=20&c=L421L3oAzJc6Wv-rIDDX5sHc0mK55uzB2oHGpXOo0C0=", "https://example.com/furniture/photo2.jpg"]
+        }, {
+            "title": "MAC Lipstick",
+            "category": "Cosmetics",
+            "price": 19,
+            "sale": 0,
+            "color": "Ruby Woo",
+            "sizes": [],
+            "description": "High-quality lipstick in a bold and vibrant shade.",
+            "orders": 100,
+            "id": 5,
+            "photos": ["https://www.sephora.com/productimages/sku/s2098218-main-zoom.jpg", "https://example.com/cosmetics/photo2.jpg"]
+        }, {
+            "title": "Travel Backpack",
+            "category": "Travel",
+            "price": 79,
+            "sale": 0,
+            "color": "Black",
+            "sizes": [],
+            "description": "Spacious and durable backpack for all your travel adventures.",
+            "orders": 35,
+            "id": 6,
+            "photos": ["https://m.media-amazon.com/images/I/61ndMmjRVsL._AC_SL1500_.jpg", "https://example.com/travel/photo2.jpg"]
+        }, {
+            "title": "Car Floor Mats",
+            "category": "Automotive",
+            "price": 49,
+            "sale": 0,
+            "color": "Black",
+            "sizes": [],
+            "description": "Protective and stylish floor mats for your car interior.",
+            "orders": 20,
+            "id": 7,
+            "photos": ["https://i5.walmartimages.com/asr/0483f8a7-844c-4306-8e05-a7d91597bc04.9446c2c29a245766924dcf8e11a4ea9c.jpeg", "https://example.com/automotive/photo2.jpg"]
+        }, {
+            "title": "LENNON R2D2 with NVIDIA 5090 TI",
+            "category": "Computers",
+            "price": 2499.99,
+            "sale": 0,
+            "color": "Silver",
+            "sizes": [],
+            "description": "The ultimate gaming PC with powerful NVIDIA 5090 TI graphics card.",
+            "purchases": 5000,
+            "id": 8,
+            "photos": ["https://d3fa68hw0m2vcc.cloudfront.net/852/237209522.jpeg", "https://example.com/bestseller/photo2.jpg", "https://example.com/bestseller/photo3.jpg"]
+        }, {
+            "title": "Dell Inspiron Laptop",
+            "category": "Computers",
+            "price": 999,
+            "sale": 0,
+            "color": "Silver",
+            "sizes": [],
+            "description": "Powerful and reliable laptop for all your computing needs.",
+            "orders": 25,
+            "id": 9,
+            "photos": ["https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-3420/media-gallery/peripherals_laptop_latitude_3420nt_gallery_1.psd?fmt=pjpg&pscan=auto&scl=1&wid=3319&hei=2405&qlt=100,1&resMode=sharp2&size=3319,2405&chrss=full&imwidth=5000", "https://example.com/computers/photo2.jpg"]
+        }, {
+            "title": "Lenovo ThinkPad X1 Carbon",
+            "category": "Computers",
+            "price": 1599,
+            "sale": 0,
+            "color": "Black",
+            "sizes": [],
+            "description": "Premium business laptop with exceptional performance.",
+            "orders": 50,
+            "id": 10,
+            "photos": ["https://www.litech.kg/storage/products/November2022/SiJtckEpwPlE2lvSbHWm.jpg", "https://example.com/computers/photo2.jpg"]
+        }, {
+            "title": "HP Pavilion Gaming Desktop",
+            "category": "Computers",
+            "price": 1299,
+            "sale": 0,
+            "color": "Black",
+            "sizes": [],
+            "description": "High-performance gaming desktop for immersive gaming experiences.",
+            "orders": 40,
+            "id": 11,
+            "photos": ["https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06927091.png", "https://example.com/computers/photo2.jpg"]
+        }, {
+            "title": "Apple iMac 27-inch",
+            "category": "Computers",
+            "price": 1999,
+            "sale": 0,
+            "color": "Silver",
+            "sizes": [],
+            "description": "Stunning all-in-one desktop with a brilliant Retina display.",
+            "orders": 60,
+            "id": 12,
+            "photos": ["https://m.media-amazon.com/images/I/71KR2i6-WaL._AC_UY879_.jpg", "https://example.com/computers/photo2.jpg"]
+        }, {
+            "title": "Microsoft Surface Laptop 4",
+            "category": "Computers",
+            "price": 1299,
+            "sale": 0,
+            "color": "Platinum",
+            "sizes": [],
+            "description": "Slim and stylish laptop with exceptional performance and battery life.",
+            "orders": 35,
+            "id": 13,
+            "photos": ["https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4OVb2?ver=3db5&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true", "https://example.com/computers/photo2.jpg"]
+        }, {
+            "title": "ASUS ROG Zephyrus G14",
+            "category": "Computers",
+            "price": 1599,
+            "sale": 0,
+            "color": "Moonlight White",
+            "sizes": [],
+            "description": "Powerful gaming laptop with a compact and portable design.",
+            "orders": 55,
+            "id": 14,
+            "photos": ["https://object.pscloud.io/cms/cms/Photo/img_0_62_2362_0_1.jpg", "https://example.com/computers/photo2.jpg"]
+        }, {
+            "title": "Acer Predator Helios 300",
+            "category": "Computers",
+            "price": 1499,
+            "sale": 0,
+            "color": "Black",
+            "sizes": [],
+            "description": "Gaming laptop with a high-refresh-rate display and powerful performance.",
+            "orders": 45,
+            "id": 15,
+            "photos": ["https://softech.kg/image/cache/bd5be06f4aacecacee6e920b1f5b6bd2.jpg", "https://example.com/computers/photo2.jpg"]
+        }, {
+            "title": "Lenovo Yoga C940",
+            "category": "Computers",
+            "price": 1399,
+            "sale": 0,
+            "color": "Iron Gray",
+            "sizes": [],
+            "description": "Versatile 2-in-1 laptop with a premium design and impressive performance.",
+            "orders": 30,
+            "id": 16,
+            "photos": ["https://object.pscloud.io/cms/cms/Photo/img_0_62_2782_7_1.jpg", "https://example.com/computers/photo2.jpg"]
+        }, {
+            "title": "HP Envy 15 Laptop",
+            "category": "Computers",
+            "price": 1199,
+            "sale": 0,
+            "color": "Natural Silver",
+            "sizes": [],
+            "description": "Stylish and powerful laptop for productivity and entertainment.",
+            "orders": 42,
+            "id": 17,
+            "photos": ["https://www.litech.kg/storage/products/November2022/1aF9ZEU79EpyDh0d8M2w.jpg", "https://example.com/computers/photo2.jpg"]
+        }, {
+            "title": "Dell XPS 13",
+            "category": "Computers",
+            "price": 1299,
+            "sale": 0,
+            "color": "Frost White",
+            "sizes": [],
+            "description": "Ultra-portable and high-performance laptop with a stunning display.",
+            "orders": 38,
+            "id": 18,
+            "photos": ["https://911.kg/wp-content/uploads/2018/03/dell.jpg", "https://example.com/computers/photo2.jpg"]
+        }, {
+            "title": "Nike Sportswear T-Shirt",
+            "category": "Clothes",
+            "price": 39,
+            "sale": 0,
+            "color": "White",
+            "sizes": [
+                "S", "M", "L"
+            ],
+            "description": "Stay comfortable and stylish during workouts with this Nike Sportswear T-Shirt.",
+            "orders": 50,
+            "id": 19,
+            "photos": ["https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/91898f88-2770-47a3-b9b4-b19603a739db/sportswear-essential-t-shirt-mHnnkb.png", "https://example.com/clothes/nike_tshirt_2.jpg"]
+        }, {
+            "title": "Balenciaga Longsleeve Coat",
+            "category": "Clothes",
+            "price": 299,
+            "sale": 0,
+            "color": "Black",
+            "sizes": [
+                "XS", "S", "M"
+            ],
+            "description": "Wrap yourself in style with this elegant Balenciaga Longsleeve Coat, perfect for chilly evenings.",
+            "orders": 35,
+            "id": 20,
+            "photos": ["https://balenciaga.dam.kering.com/m/582878d9846a5e61/Medium-681046TLVJ10107_G.jpg?v=3", "https://example.com/clothes/balenciaga_coat_2.jpg"]
+        }, {
+            "title": "Adidas Track Pants",
+            "category": "Clothes",
+            "price": 79,
+            "sale": 0,
+            "color": "Navy",
+            "sizes": [
+                "M", "L", "XL"
+            ],
+            "description": "Stay active and comfortable with these Adidas Track Pants, perfect for sports or casual wear.",
+            "orders": 45,
+            "id": 21,
+            "photos": ["https://assets.adidas.com/images/w_600,f_auto,q_auto/6adc4e3647d0465daa1eaf2c01041e69_9366/Adicolor_Classics_SST_Track_Pants_Black_IA4791_21_model.jpg", "https://example.com/clothes/adidas_pants_2.jpg"]
+        }, {
+            "title": "Zara Floral Print Dress",
+            "category": "Clothes",
+            "price": 99,
+            "sale": 0,
+            "color": "Pink",
+            "sizes": [
+                "S", "M", "L"
+            ],
+            "description": "Step out in style with this stunning Zara Floral Print Dress, featuring a vibrant floral pattern.",
+            "orders": 60,
+            "id": 22,
+            "photos": ["https://static.zara.net/photos///2023/V/0/1/p/2587/061/330/12/w/1920/2587061330_2_1_1.jpg?ts=1679572219055", "https://example.com/clothes/zara_dress_2.jpg"]
+        }, {
+            "title": "H&M Slim Fit Shirt",
+            "category": "Clothes",
+            "price": 49,
+            "sale": 0,
+            "color": "Blue",
+            "sizes": [
+                "M", "L", "XL"
+            ],
+            "description": "Look sharp and sophisticated with this H&M Slim Fit Shirt, perfect for both formal and casual occasions.",
+            "orders": 55,
+            "id": 23,
+            "photos": ["https://cdn.shopify.com/s/files/1/0565/1234/8333/products/JenniKayne_CottonBasicTee_White1.jpg?v=1639692587", "https://example.com/clothes/hm_shirt_2.jpg"]
+        }, {
+            "title": "Forever 21 Denim Shorts",
+            "category": "Clothes",
+            "price": 29,
+            "sale": 0,
+            "color": "Light Blue",
+            "sizes": [
+                "S", "M", "L"
+            ],
+            "description": "Stay cool and stylish with these Forever 21 Denim Shorts, perfect for a casual summer look.",
+            "orders": 70,
+            "id": 24,
+            "photos": ["https://www.forever21.com/on/demandware.static/-/Sites-f21-master-catalog/default/dw22ed12d1/1_front_750/00366478-01.jpg", "https://example.com/clothes/forever21_shorts_2.jpg"]
+        }, {
+            "title": "GAP V-Neck Sweater",
+            "category": "Clothes",
+            "price": 69,
+            "sale": 0,
+            "color": "Gray",
+            "sizes": [
+                "S", "M", "L"
+            ],
+            "description": "Stay warm and fashionable with this cozy GAP V-Neck Sweater, perfect for the winter season.",
+            "orders": 40,
+            "id": 25,
+            "photos": ["https://www.gap.com/webcontent/0050/981/297/cn50981297.jpg", "https://example.com/clothes/gap_sweater_2.jpg"]
+        }, {
+            "title": "Puma Jogger Pants",
+            "category": "Clothes",
+            "price": 59,
+            "sale": 0,
+            "color": "Black",
+            "sizes": [
+                "M", "L", "XL"
+            ],
+            "description": "Get active and stylish with these comfortable Puma Jogger Pants, perfect for workouts or lounging.",
+            "orders": 65,
+            "id": 26,
+            "photos": ["https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/532344/01/mod01/fnd/THA/fmt/png/PUMA-x-FIRST-MILE-Double-Knit-Women's-Jogger-Pants", "https://example.com/clothes/puma_pants_2.jpg"]
+        }, {
+            "title": "Levi's Denim Jacket",
+            "category": "Clothes",
+            "price": 129,
+            "sale": 0,
+            "color": "Blue",
+            "sizes": [
+                "S", "M", "L"
+            ],
+            "description": "Complete your casual look with this timeless Levi's Denim Jacket, a versatile addition to your wardrobe.",
+            "orders": 30,
+            "id": 27,
+            "photos": ["https://myer-media.com.au/wcsstore/MyerCatalogAssetStore/images/45/451/2422/301/1/816841360/816841360_1_720x928.webp", "https://example.com/clothes/levis_jacket_2.jpg"]
+        }, {
+            "title": "Zara Striped Shirt",
+            "category": "Clothes",
+            "price": 39,
+            "sale": 0,
+            "color": "Black/White",
+            "sizes": [
+                "S", "M", "L"
+            ],
+            "description": "Stay fashionable with this trendy Zara Striped Shirt, featuring a classic black and white stripe pattern.",
+            "orders": 48,
+            "id": 28,
+            "photos": ["https://di2ponv0v5otw.cloudfront.net/posts/2020/06/27/5ef766e8f3fd66ed30556d52/m_5ef9fd15a4de417e181ede2a.jpg", "https://example.com/clothes/zara_shirt_2.jpg"]
+        }, {
+            "title": "Urban Outfitters Graphic Tee",
+            "category": "Clothes",
+            "price": 29,
+            "sale": 0,
+            "color": "Gray",
+            "sizes": [
+                "S", "M", "L"
+            ],
+            "description": "Express your unique style with this cool Urban Outfitters Graphic Tee, featuring a captivating graphic design.",
+            "orders": 52,
+            "id": 29,
+            "photos": ["https://images.urbndata.com/is/image/UrbanOutfitters/57140063_012_b?$xlarge$&fit=constrain&qlt=80&wid=640", "https://example.com/clothes/urban_outfitters_tee_2.jpg"]
+        }, {
+            "title": "Hollister Denim Skirt",
+            "category": "Clothes",
+            "price": 59,
+            "sale": 0,
+            "color": "Light Wash",
+            "sizes": [
+                "XS", "S", "M"
+            ],
+            "description": "Add a touch of flair to your outfit with this stylish Hollister Denim Skirt, perfect for a casual yet chic look.",
+            "orders": 38,
+            "id": 30,
+            "photos": ["https://dgbt0njcf3x4q.cloudfront.net/fit-in/400x4096/photoRobot-hanging-graf-g-4/MkYs0q0hQY-9809-0.jpg", "https://example.com/clothes/hollister_skirt_2.jpg"]
+        }, {
+            "title": "Nike Air Jordan 1",
+            "category": "Shoes",
+            "price": 149,
+            "sale": 0,
+            "color": "Black/Red",
+            "sizes": [
+                "US 8", "US 9", "US 10"
+            ],
+            "description": "Classic Nike Air Jordan 1 sneakers in black and red colorway.",
+            "orders": 60,
+            "id": 31,
+            "photos": ["https://images.stockx.com/360/Air-Jordan-1-Retro-High-White-University-Blue-Black/Images/Air-Jordan-1-Retro-High-White-University-Blue-Black/Lv2/img01.jpg?fm=jpg&auto=compress&w=480&dpr=2&updated_at=1635340557&h=320&q=75", "https://example.com/shoes/air_jordan_1_2.jpg"]
+        }, {
+            "title": "Adidas Ultraboost",
+            "category": "Shoes",
+            "price": 179,
+            "sale": 0,
+            "color": "White/Gray",
+            "sizes": [
+                "US 7", "US 8", "US 9"
+            ],
+            "description": "Comfortable Adidas Ultraboost sneakers in white and gray design.",
+            "orders": 75,
+            "id": 32,
+            "photos": ["https://assets.adidas.com/images/w_600,f_auto,q_auto/4b593057a18c47d2844dad9000ecd808_9366/Ultraboost_22_Running_Shoes_Black_GX3062_01_standard.jpg", "https://example.com/shoes/adidas_ultraboost_2.jpg"]
+        }, {
+            "title": "Converse Chuck Taylor All Star",
+            "category": "Shoes",
+            "price": 69,
+            "sale": 0,
+            "color": "Navy Blue",
+            "sizes": [
+                "US 6", "US 7", "US 8"
+            ],
+            "description": "Classic Converse Chuck Taylor All Star sneakers in navy blue color.",
+            "orders": 55,
+            "id": 33,
+            "photos": ["https://cdn.shopify.com/s/files/1/2260/2259/products/converse-mens-chuck-taylor-all-star-high-top-navy-shoe-302541_1024x1024.jpg?v=1685510786", "https://example.com/shoes/converse_chuck_taylor_2.jpg"]
+        }, {
+            "title": "Puma Suede Classic",
+            "category": "Shoes",
+            "price": 79,
+            "sale": 0,
+            "color": "Black/White",
+            "sizes": [
+                "US 8", "US 9", "US 10"
+            ],
+            "description": "Stylish Puma Suede Classic sneakers in black and white colorway.",
+            "orders": 45,
+            "id": 34,
+            "photos": ["https://pumakyrgyzstan.kg/images/products/jpg/37491560_01875x875.jpg", "https://example.com/shoes/puma_suede_classic_2.jpg"]
+        }, {
+            "title": "Vans Old Skool",
+            "category": "Shoes",
+            "price": 59,
+            "sale": 0,
+            "color": "Black/White",
+            "sizes": [
+                "US 7", "US 8", "US 9"
+            ],
+            "description": "Timeless Vans Old Skool sneakers in black and white color combination.",
+            "orders": 62,
+            "id": 35,
+            "photos": ["https://shop-cdn1-2.vigbo.tech/shops/182478/products/22021981/images/2-515428083dbcc73fe821b4cc8afcc3fa.jpg", "https://example.com/shoes/vans_old_skool_2.jpg"]
+        }, {
+            "title": "New Balance 574",
+            "category": "Shoes",
+            "price": 89,
+            "sale": 0,
+            "color": "Gray/Blue",
+            "sizes": [
+                "US 8", "US 9", "US 10"
+            ],
+            "description": "Sleek New Balance 574 sneakers in gray and blue color combination.",
+            "orders": 40,
+            "id": 36,
+            "photos": ["https://nb.scene7.com/is/image/NB/mr530sg_nb_02_i?$dw_detail_gallery$", "https://example.com/shoes/new_balance_574_2.jpg"]
+        }, {
+            "title": "Reebok Classic Leather",
+            "category": "Shoes",
+            "price": 79,
+            "sale": 0,
+            "color": "White",
+            "sizes": [
+                "US 7", "US 8", "US 9"
+            ],
+            "description": "Clean and stylish Reebok Classic Leather sneakers in white colorway.",
+            "orders": 58,
+            "id": 37,
+            "photos": ["https://content.rezetstore.dk/sites/default/files/styles/product_display_teaser_mobile/public/PIM-images/reebok/2272956/reebok-classic-leather-1983-vintage-chalk-vector-n-v1-741803.png", "https://example.com/shoes/reebok_classic_leather_2.jpg"]
+        }, {
+            "title": "Timberland 6-Inch Premium Boots",
+            "category": "Shoes",
+            "price": 179,
+            "sale": 0,
+            "color": "Wheat",
+            "sizes": [
+                "US 9", "US 10", "US 11"
+            ],
+            "description": "Durable and stylish Timberland 6-Inch Premium Boots in classic wheat color.",
+            "orders": 53,
+            "id": 38,
+            "photos": ["https://images.timberland.com/is/image/timberland/10061024-HERO?wid=500&hei=500", "https://example.com/shoes/timberland_boots_2.jpg"]
+        }, {
+            "title": "Dr. Martens 1460",
+            "category": "Shoes",
+            "price": 139,
+            "sale": 0,
+            "color": "Black",
+            "sizes": [
+                "US 8", "US 9", "US 10"
+            ],
+            "description": "Classic black Dr. Martens 1460 boots for a rebellious and stylish look.",
+            "orders": 49,
+            "id": 39,
+            "photos": ["https://martens.com.ua/wp-content/uploads/2019/05/Dr.-Martens-1460-Black-Smooth-2.jpg", "https://example.com/shoes/dr_martens_1460_2.jpg"]
+        }, {
+            "title": "Skechers Go Walk",
+            "category": "Shoes",
+            "price": 69,
+            "sale": 0,
+            "color": "Navy Blue",
+            "sizes": [
+                "US 7", "US 8", "US 9"
+            ],
+            "description": "Sleek navy blue Skechers Go Walk shoes for unmatched comfort.",
+            "orders": 56,
+            "id": 40,
+            "photos": ["https://yoyo.kg/wp-content/uploads/2020/08/54163_bbk.jpg", "https://example.com/shoes/skechers_go_walk_2.jpg"]
+        }, {
+            "title": "Elegant Leather Sofa",
+            "category": "Furniture",
+            "price": 1599,
+            "sale": 0,
+            "color": "Brown",
+            "sizes": [],
+            "description": "Upgrade your living room with this elegant leather sofa that offers both comfort and style.",
+            "orders": 20,
+            "id": 41,
+            "photos": ["https://img.freepik.com/premium-photo/brown-luxury-leather-sofa-white-background_627281-2223.jpg", "https://example.com/furniture/leather_sofa_2.jpg"]
+        }, {
+            "title": "Modern Glass Coffee Table",
+            "category": "Furniture",
+            "price": 399,
+            "sale": 0,
+            "color": "Clear",
+            "sizes": [],
+            "description": "Add a touch of modernity to your living space with this sleek glass coffee table.",
+            "orders": 15,
+            "id": 42,
+            "photos": ["https://media.istockphoto.com/id/1250026682/photo/coffee-table-isolated-on-white-background-with-clipping-path-included-3d-render.jpg?s=612x612&w=0&k=20&c=IpOkTq4QvJOf--WNfOer7n7p4IFEx-bPdoRjV4q8OQ4=", "https://example.com/furniture/glass_coffee_table_2.jpg"]
+        }, {
+            "title": "Cozy Upholstered Armchair",
+            "category": "Furniture",
+            "price": 499,
+            "sale": 0,
+            "color": "Gray",
+            "sizes": [],
+            "description": "Unwind and relax in this cozy upholstered armchair, perfect for your reading nook or lounge area.",
+            "orders": 10,
+            "id": 43,
+            "photos": ["https://img.freepik.com/premium-vector/trendy-retro-styled-armchair-design-modern-mid-century-arm-chair-with-upholstered-armrests-seat-high-back-cozy-soft-lounge-furniture-colored-flat-vector-illustration-isolated-white-background_198278-18118.jpg", "https://example.com/furniture/upholstered_armchair_2.jpg"]
+        }, {
+            "title": "Wooden Dining Table Set",
+            "category": "Furniture",
+            "price": 899,
+            "sale": 0,
+            "color": "Natural",
+            "sizes": [],
+            "description": "Gather your family and friends around this sturdy wooden dining table set for memorable meals together.",
+            "orders": 8,
+            "id": 44,
+            "photos": ["https://media.istockphoto.com/id/1214818905/photo/wooden-modern-table-isolated-on-white-background-kitchen-dining-table-front-view.jpg?s=170667a&w=0&k=20&c=UV2Z9ZcPHELEiwCRc70jhTcZej5Dz4ZJ8TTExS2Ys_E=", "https://example.com/furniture/dining_table_set_2.jpg"]
+        }, {
+            "title": "Minimalist Bookshelf",
+            "category": "Furniture",
+            "price": 299,
+            "sale": 0,
+            "color": "White",
+            "sizes": [],
+            "description": "Organize your books and display your favorite decor pieces with this minimalist white bookshelf.",
+            "orders": 12,
+            "id": 45,
+            "photos": ["https://media.istockphoto.com/id/186595189/photo/empty-cabinet-isolated-on-white-background-with-soft-shadow.jpg?s=612x612&w=0&k=20&c=MbbL-anbG4lTIB4umDtpeQRe3doKIDNadoudgxhIkYI=", "https://example.com/furniture/bookshelf_2.jpg"]
+        }, {
+            "title": "Maybelline Fit Me Foundation",
+            "category": "Cosmetics",
+            "price": 12,
+            "sale": 0,
+            "color": "Natural Beige",
+            "sizes": [],
+            "description": "Achieve a flawless complexion with the Maybelline Fit Me Foundation. Its lightweight formula blends seamlessly for a natural-looking finish.",
+            "orders": 30,
+            "id": 46,
+            "photos": ["https://media.istockphoto.com/id/186595189/photo/empty-cabinet-isolated-on-white-background-with-soft-shadow.jpg?s=612x612&w=0&k=20&c=MbbL-anbG4lTIB4umDtpeQRe3doKIDNadoudgxhIkYI=", "https://example.com/cosmetics/fit_me_foundation_2.jpg"]
+        }, {
+            "title": "Urban Decay Naked Eyeshadow Palette",
+            "category": "Cosmetics",
+            "price": 54,
+            "sale": 0,
+            "color": "Mixed",
+            "sizes": [],
+            "description": "Create stunning eye looks with the Urban Decay Naked Eyeshadow Palette. It features a range of versatile shades with a velvety texture.",
+            "orders": 25,
+            "id": 47,
+            "photos": ["https://www.urbandecay.com/on/demandware.static/-/Sites-urbandecay-master-catalog/default/dw8d4064aa/ProductImages/Palettes/Naked3/604214919006_naked3.jpg", "https://example.com/cosmetics/naked_eyeshadow_palette_2.jpg"]
+        }, {
+            "title": "MAC Ruby Woo Lipstick",
+            "category": "Cosmetics",
+            "price": 20,
+            "sale": 0,
+            "color": "Ruby Woo",
+            "sizes": [],
+            "description": "Make a statement with the iconic MAC Ruby Woo Lipstick. Its bold red shade and long-lasting formula will leave you feeling confident all day.",
+            "orders": 40,
+            "id": 48,
+            "photos": ["https://sdcdn.io/mac/us/mac_sku_M2LP71_1x1_0.png?width=1440&height=1440", "https://example.com/cosmetics/ruby_woo_lipstick_2.jpg"]
+        }, {
+            "title": "NARS Radiant Creamy Concealer",
+            "category": "Cosmetics",
+            "price": 30,
+            "sale": 0,
+            "color": "Custard",
+            "sizes": [],
+            "description": "Cover imperfections and brighten your under-eye area with the NARS Radiant Creamy Concealer. Its creamy formula provides buildable coverage with a natural finish.",
+            "orders": 20,
+            "id": 49,
+            "photos": ["https://www.narscosmetics.com/on/demandware.static/-/Sites-itemmaster_NARS/default/dw51a276cc/hi-res/0607845012344.jpg", "https://example.com/cosmetics/radiant_creamy_concealer_2.jpg"]
+        }, {
+            "title": "Anastasia Beverly Hills Brow Wiz",
+            "category": "Cosmetics",
+            "price": 23,
+            "sale": 0,
+            "color": "Dark Brown",
+            "sizes": [],
+            "description": "Achieve perfectly defined brows with the Anastasia Beverly Hills Brow Wiz. Its ultra-fine tip allows for precise application and mimics the look of natural brow hairs.",
+            "orders": 35,
+            "id": 50,
+            "photos": ["https://www.sephora.com/productimages/sku/s2372530-main-zoom.jpg?imwidth=315", "https://example.com/cosmetics/brow_wiz_2.jpg"]
+        }, {
+            "title": "Samsonite Hardside Luggage",
+            "category": "Travel",
+            "price": 150,
+            "sale": 0,
+            "color": "Black",
+            "sizes": [],
+            "description": "Travel in style with the Samsonite Hardside Luggage. Its durable construction and spacious interior make it the perfect companion for your next adventure.",
+            "orders": 30,
+            "id": 51,
+            "photos": ["https://cdn.shopify.com/s/files/1/1799/7261/products/88539-1041_01_9beffe84-605e-410d-a539-60b943e7443f.jpg", "https://example.com/travel/hardside_luggage_2.jpg"]
+        }, {
+            "title": "Osprey Farpoint 40 Travel Backpack",
+            "category": "Travel",
+            "price": 120,
+            "sale": 0,
+            "color": "Volcanic Grey",
+            "sizes": [],
+            "description": "Experience ultimate comfort and convenience with the Osprey Farpoint 40 Travel Backpack. Its spacious compartments and ergonomic design make it ideal for backpacking or city-hopping.",
+            "orders": 25,
+            "id": 52,
+            "photos": ["https://www.osprey.com/images/product/hero/farpointpack70_s22_side_black.jpg", "https://example.com/travel/farpoint_backpack_2.jpg"]
+        }, {
+            "title": "Travelpro Maxlite 5 Carry-On Spinner",
+            "category": "Travel",
+            "price": 135,
+            "sale": 0,
+            "color": "Azure Blue",
+            "sizes": [],
+            "description": "Navigate through airports with ease using the Travelpro Maxlite 5 Carry-On Spinner. Its lightweight design and 360-degree spinner wheels ensure smooth and effortless travel.",
+            "orders": 35,
+            "id": 53,
+            "photos": ["https://www.travelpro.co.uk/cdn/shop/products/401229942_front_1024x1024.jpg?v=1673632476", "https://example.com/travel/maxlite_spinner_2.jpg"]
+        }, {
+            "title": "Eagle Creek Packing Cubes",
+            "category": "Travel",
+            "price": 25,
+            "sale": 0,
+            "color": "Assorted Colors",
+            "sizes": [],
+            "description": "Stay organized during your travels with Eagle Creek Packing Cubes. These lightweight and durable cubes help maximize space in your luggage and keep your belongings neatly arranged.",
+            "orders": 40,
+            "id": 54,
+            "photos": ["https://m.media-amazon.com/images/I/91GDZ7znicL.jpg", "https://example.com/travel/packing_cubes_2.jpg"]
+        }, {
+            "title": "Travel Neck Pillow",
+            "category": "Travel",
+            "price": 15,
+            "sale": 0,
+            "color": "Gray",
+            "sizes": [],
+            "description": "Enjoy comfortable journeys with the Travel Neck Pillow. Its ergonomic design provides excellent neck support, allowing you to rest and relax during long flights or road trips.",
+            "orders": 20,
+            "id": 55,
+            "photos": ["https://example.com/travel/neck_pillow_1.jpg", "https://example.com/travel/neck_pillow_2.jpg"]
+        }, {
+            "title": "Michelin Pilot Sport 4S Tires",
+            "category": "Automotive",
+            "price": 200,
+            "sale": 0,
+            "color": "Black",
+            "sizes": [],
+            "description": "Upgrade your vehicle's performance with the Michelin Pilot Sport 4S Tires. These high-quality tires deliver exceptional grip, precise handling, and enhanced braking capabilities.",
+            "orders": 50,
+            "id": 56,
+            "photos": ["https://example.com/automotive/tires_1.jpg", "https://example.com/automotive/tires_2.jpg"]
+        }, {
+            "title": "BlackVue Dash Cam",
+            "category": "Automotive",
+            "price": 150,
+            "sale": 0,
+            "color": "Black",
+            "sizes": [],
+            "description": "Capture every moment on the road with the BlackVue Dash Cam. Its high-resolution recording and wide-angle lens provide clear and detailed footage for enhanced safety and security.",
+            "orders": 40,
+            "id": 57,
+            "photos": ["https://example.com/automotive/dash_cam_1.jpg", "https://example.com/automotive/dash_cam_2.jpg"]
+        }, {
+            "title": "WeatherTech Floor Mats",
+            "category": "Automotive",
+            "price": 80,
+            "sale": 0,
+            "color": "Black",
+            "sizes": [],
+            "description": "Protect your vehicle's interior with WeatherTech Floor Mats. These custom-fit mats are designed to trap dirt, spills, and debris, keeping your car's floors clean and pristine.",
+            "orders": 60,
+            "id": 58,
+            "photos": ["https://example.com/automotive/floor_mats_1.jpg", "https://example.com/automotive/floor_mats_2.jpg"]
+        }, {
+            "title": "Car Battery Jump Starter",
+            "category": "Automotive",
+            "price": 100,
+            "sale": 0,
+            "color": "Red",
+            "sizes": [],
+            "description": "Never worry about a dead battery again with the Car Battery Jump Starter. This portable device can jump-start your vehicle and also serves as a power bank for charging your devices on-the-go.",
+            "orders": 30,
+            "id": 59,
+            "photos": ["https://example.com/automotive/jump_starter_1.jpg", "https://example.com/automotive/jump_starter_2.jpg"]
+        }, {
+            "title": "LED Headlight Conversion Kit",
+            "category": "Automotive",
+            "price": 60,
+            "sale": 0,
+            "color": "White",
+            "sizes": [],
+            "description": "Experience enhanced visibility and safety with the LED Headlight Conversion Kit. These high-performance headlights provide bright and clear illumination for optimal nighttime driving.",
+            "orders": 35,
+            "id": 60,
+            "photos": ["https://example.com/automotive/headlight_conversion_1.jpg", "https://example.com/automotive/headlight_conversion_2.jpg"]
+        }
+    ],
+
+    "trending": [
+        {
+            "title": "Dell Inspiron Laptop",
+            "category": "Computers",
+            "price": 999,
+            "sale": 0,
+            "color": "Silver",
+            "sizes": [],
+            "description": "Powerful and reliable laptop for all your computing needs.",
+            "orders": 25,
+            "id": 1,
+            "photos": ["https://m.media-amazon.com/images/I/7150w5ZxZ9L.jpg", "https://example.com/computers/photo2.jpg"]
+        }, {
+            "title": "Men's Casual Shirt",
+            "category": "Clothes",
+            "price": 39,
+            "sale": 0,
+            "color": "Blue",
+            "sizes": [
+                "S", "M", "L"
+            ],
+            "description": "Comfortable and stylish shirt for everyday wear.",
+            "orders": 50,
+            "id": 2,
+            "photos": ["https://cdn.shopify.com/s/files/1/0412/0133/6481/products/3DTEE-CREAM_1000x.jpg?v=1642115129", "https://example.com/clothes/photo2.jpg"]
+        }, {
+            "title": "Nike Air Max Sneakers",
+            "category": "Shoes",
+            "price": 129,
+            "sale": 0,
+            "color": "Black/White",
+            "sizes": [
+                "US 8", "US 9", "US 10"
+            ],
+            "description": "High-performance sneakers for sports and casual wear.",
+            "orders": 79,
+            "id": 3,
+            "photos": ["https://m.media-amazon.com/images/I/710PQ18oz1L._AC_UY1000_.jpg", "https://example.com/shoes/photo2.jpg"]
+        }, {
+            "title": "Modern Sectional Sofa",
+            "category": "Furniture",
+            "price": 1499,
+            "sale": 0,
+            "color": "Gray",
+            "sizes": [],
+            "description": "Elegant and comfortable sectional sofa for your living room.",
+            "orders": 15,
+            "id": 4,
+            "photos": ["https://media.istockphoto.com/id/180696562/photo/white-fabric-sofa-with-clipping-path.jpg?s=170667a&w=0&k=20&c=L421L3oAzJc6Wv-rIDDX5sHc0mK55uzB2oHGpXOo0C0=", "https://example.com/furniture/photo2.jpg"]
+        }, {
+            "title": "MAC Lipstick",
+            "category": "Cosmetics",
+            "price": 19,
+            "sale": 0,
+            "color": "Ruby Woo",
+            "sizes": [],
+            "description": "High-quality lipstick in a bold and vibrant shade.",
+            "orders": 100,
+            "id": 5,
+            "photos": ["https://www.sephora.com/productimages/sku/s2098218-main-zoom.jpg", "https://example.com/cosmetics/photo2.jpg"]
+        }, {
+            "title": "Travel Backpack",
+            "category": "Travel",
+            "price": 79,
+            "sale": 0,
+            "color": "Black",
+            "sizes": [],
+            "description": "Spacious and durable backpack for all your travel adventures.",
+            "orders": 35,
+            "id": 6,
+            "photos": ["https://example.com/travel/photo1.jpg", "https://example.com/travel/photo2.jpg"]
+        }, {
+            "title": "Car Floor Mats",
+            "category": "Automotive",
+            "price": 49,
+            "sale": 0,
+            "color": "Black",
+            "sizes": [],
+            "description": "Protective and stylish floor mats for your car interior.",
+            "orders": 20,
+            "id": 7,
+            "photos": ["https://example.com/automotive/photo1.jpg", "https://example.com/automotive/photo2.jpg"]
+        }
+    ]
+
+}

@@ -1,0 +1,48 @@
+@import "../../../styles/variables";
+.header{
+    height: 70px;
+    padding: 0 25px;
+    display: grid;
+    grid-template-columns: 1fr 3.125fr;
+    gap: 20px;
+    align-items: center;
+    &__right{
+        @include flex-between;
+        align-items: center;
+    }
+    &__user{
+        @include flex-centered;
+        align-items: center;
+        gap: 10px;
+        > img{
+            padding: 5px;
+            background: var(--dark);
+            border-radius: 50%;
+        }
+    }
+    &__searchbar{
+        @include flex;
+        gap: 15px;
+        @include bgdark-br6px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 11px;
+        padding: 7px;
+        width: 30%;
+        & > input{
+            width: 100%;
+        }
+    }
+    &__icons{
+        display: flex;
+        gap: 25px;
+    }
+}
+.username{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 11px;
+    color: var(--grey)
+}

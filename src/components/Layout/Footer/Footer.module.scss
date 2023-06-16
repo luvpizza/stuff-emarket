@@ -1,0 +1,25 @@
+@import "../../../styles/variables.scss";
+
+.footer {
+    height: 70px;
+    padding: 0 25px;
+    margin-bottom: 25px;
+    @include flex-between;
+    align-items: center;
+    @include bgdark-br6px;
+    &__by {
+        color: var(--dark-sea);
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 15px;
+    }
+    &__highlighted {
+        color: var(--violet--dark) !important;
+    }
+    &__icons{
+        @include flex-centered;
+        align-items: center;
+        gap: 15px;
+    }
+}

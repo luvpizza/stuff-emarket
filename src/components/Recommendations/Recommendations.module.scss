@@ -1,0 +1,23 @@
+@import "../../styles/variables.scss";
+
+.recommendations{
+    width: 100%;
+    @include flex-centered;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px 0;
+    @include bgdark-br6px;
+    margin-bottom: 20px;
+    &__title{
+        @include section-title;
+        margin-bottom: 25px;
+        text-align: center;
+    }
+    &__container {
+        padding: 0 5px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+}
